@@ -1,0 +1,10 @@
+----------
+Timestamp: 2025-10-13 12:10:24.527922
+User Query: hello
+Tool Used: DuckDuckGo + Agent
+Tool Output:
+Fetched results if needed
+LLM Response:
+Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?
+----------
+
